@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Azure Zero to Hero Course
 
 ![Add a heading(13)](https://github.com/iam-veeramalla/Azure-zero-to-hero/assets/43399466/c64cb363-661d-4411-8a30-9cb55255ba30)
@@ -47,29 +46,30 @@
 - Routes and Route Tables
 - Network Security Groups(NSGs)
 - Application Security Groups(ASGs)
-- Demo 
 
 ## Day 6: Advanced Networking Services
-- Introduction to Virtual Network Peering and VNet Gateway
-- Introduction to VPN Gateway
-- Introduction to Azure Load Balancer and Azure App Gateway
-- Introduction to Content Delivery Network(CDN) in Azure
+- Azure App Gateway & WAF
+- Azure Load Balancer
+- Azure DNS
+- Azure Firewall
+- Virtual Network Peering and VNet Gateway
+- VPN Gateway
+  
+## Day 7: Deploying an application behind Firewall on Azure - (PROJECT 1)
+- Practical Hands on video that explains
+- How to set up the networking
+- How to deploy the applcition on Azure VMs with Networking and use bastion.
+- Overview of the setup and troubleshooting.
 
-## Day 7: Azure Interview Questions (Compute and Networking)
+## Day 8: Azure Interview Questions (Compute and Networking)
 - Interview Questions on the topics covered till Day 6
 - Cloud computing concepts
 - Azure Basics
 - Azure Networking
 
-## Day 8: Deploying a two tier application on Azure - (PROJECT 1)
-- Practical Hands on video that explains
-- How to set up the networking for two tier app
-- How to deploy the two tier applcition on Azure VMs with Networking.
-- Overview of the setup and troubleshooting.
-
 ## Day 9: Azure Storage Services
 - Types of Azure Storage Services
-- Use Cases and Demonstrations
+- Use Cases
 
 ## Day 10: Command Line Interface for Azure
 - Azure CLI Deep Dive
@@ -78,6 +78,9 @@
 
 ## Day 11: Azure Resource Manager
 - Azure Resource Manager and Azure Templates Deep Dive
+- Comparison with Bicep
+- Comparison with Azure CLI
+- Comparison with Terraform
 
 ## Day 12: Azure Authentication and Identity Management
 - Authentication Services in Azure
@@ -85,7 +88,7 @@
 - Implementing RBAC
 - Best Practices for RBAC
 
-## Day 13: Azure Cloud Watch and Monitoring Services
+## Day 13: Azure Cloud Watch(Monitor) and Monitoring Services
 - Monitoring Overview
 - Setting Up Monitoring in Azure
 
@@ -142,6 +145,3 @@
 ## Day 25: Azure Interview Preparion
 - Review of Key Concepts
 - Interviews Questions and Practice Sessions
-=======
-
->>>>>>> 5fcade1bc6048bf1c68ad9c4c1c6c159a3594115
